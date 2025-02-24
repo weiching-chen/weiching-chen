@@ -8,7 +8,7 @@ class Header extends Component {
       this.state = {
         title: "Weiching (Julia) Chen",
         subtitle: ["Work", "Resume", "Contact"],
-        url: ["/MainPage#project", "/cv.pdf", "mailto:wc683@cornell.edu"]
+        url: ["/weiching-chen/MainPage#project", "/weiching-chen/cv.pdf", "mailto:wc683@cornell.edu"]
       }
     }
     
