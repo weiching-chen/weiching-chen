@@ -40,7 +40,7 @@ class P3Page extends Component {
           <div className="content_holder">
 
             <video width="100%" autoPlay controls>
-              <source src="/P3/PCube_Introduction_eng_sub.mp4" type="video/mp4" />
+              <source src="/weiching-chen/P3/PCube_Introduction_eng_sub.mp4" type="video/mp4" />
             </video>
 
             <div className="gap_h"></div>
@@ -55,7 +55,7 @@ class P3Page extends Component {
 
             <div className="more_detail">
               <h4>More Details</h4>
-              <p>Learn more about the project: <a href="/P3/pcube1.png">[Poster]</a><a href="/P3/pcube2.png">[Poster]</a><a href="/P3/pcube3.png">[Poster]</a><a href="/P3/pcube4.png">[Poster]</a></p>
+              <p>Learn more about the project: <a href="/weiching-chen/P3/pcube1.png">[Poster]</a><a href="/weiching-chen/P3/pcube2.png">[Poster]</a><a href="/weiching-chen/P3/pcube3.png">[Poster]</a><a href="/weiching-chen/P3/pcube4.png">[Poster]</a></p>
               <h4>Project Type</h4>
               <p>#Product Design #Store Management #Pandemic Response #Machine Integration Development</p>
               <h4>Personal Contribution</h4>

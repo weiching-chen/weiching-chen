@@ -19,7 +19,7 @@ class WorkCard extends Component {
             <Link to={this.state.url}>
                 <div className="work_card">
                     <div className="work_card_img_holder">
-                        <img src={this.state.imageSrc} />
+                        <img src={"/weiching-chen" + this.state.imageSrc} />
                     </div>
                     <h4 className="work_card_title">{this.state.title}</h4>
                     <h5 className="work_card_description">{this.state.description}</h5>

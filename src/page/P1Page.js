@@ -40,7 +40,7 @@ class P1Page extends Component {
           <div className="content_holder">
 
             <video width="100%" controls>
-              <source src="/P1/final.MOV" type="video/mp4" />
+              <source src="/weiching-chen/P1/final.MOV" type="video/mp4" />
             </video>
 
             <div className="gap_h"></div>
@@ -52,24 +52,24 @@ class P1Page extends Component {
             <div className="gap_h"></div>
 
             <video width="49%" controls>
-              <source src="/P1/1.mp4" type="video/mp4" />
+              <source src="/weiching-chen/P1/1.mp4" type="video/mp4" />
             </video>
 
             <div className="gap_w"></div>
 
             <video width="49%" controls>
-              <source src="/P1/2.mp4" type="video/mp4" />
+              <source src="/weiching-chen/P1/2.mp4" type="video/mp4" />
             </video>
 
             <div className="gap_h"></div>
 
-            <img src="/P1/6.png" width="100%" />
+            <img src="/weiching-chen/P1/6.png" width="100%" />
 
             <div className="gap_h"></div>
 
             <div className="more_detail">
               <h4>More Details</h4>
-              <p>Learn more about the project: <a href="/P1/poster.png">[Poster]</a><a href="/P1/small_poster.png">[Design Matrix]</a></p>
+              <p>Learn more about the project: <a href="/weiching-chen/P1/poster.png">[Poster]</a><a href="/weiching-chen/P1/small_poster.png">[Design Matrix]</a></p>
               <h4>Project Type</h4>
               <p>#Tensegrity Design #Structural Innovation #BioInspired Robots #Resilient Structures #Space Robotics</p>
               <h4>Personal Contribution</h4>
