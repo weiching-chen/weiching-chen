@@ -40,7 +40,7 @@ class P12Page extends Component {
           <div className="content_holder">
 
             <video width="100%" controls>
-              <source src="/P12/quick.mov" type="video/mp4" />
+              <source src="/weiching-chen/P12/quick.mov" type="video/mp4" />
             </video>
 
             <div className="gap_h"></div>
@@ -70,23 +70,23 @@ class P12Page extends Component {
               }}>
 
               <video width="17.5%" controls  style={{ gridColumn: "1", gridRow: "1/3", width: "100%" }} >
-                <source src="/P12/final.mov" type="video/mp4" />
+                <source src="/weiching-chen/P12/final.mov" type="video/mp4" />
               </video>
 
               <video width="50%" controls style={{ gridColumn: "2", gridRow: "1", width: "100%" }} >
-                <source src="/P12/d1.mp4" type="video/mp4" />
+                <source src="/weiching-chen/P12/d1.mp4" type="video/mp4" />
               </video>
 
               <video width="50%" controls style={{ gridColumn: "3", gridRow: "1", width: "100%" }} >
-                <source src="/P12/d2.mp4" type="video/mp4" />
+                <source src="/weiching-chen/P12/d2.mp4" type="video/mp4" />
               </video>
 
               <video width="50%" controls style={{ gridColumn: "2", gridRow: "2", width: "100%" }} >
-                <source src="/P12/d3.mp4" type="video/mp4" />
+                <source src="/weiching-chen/P12/d3.mp4" type="video/mp4" />
               </video>
 
               <video width="50%" controls style={{ gridColumn: "3", gridRow: "2", width: "100%" }} >
-                <source src="/P12/d4.mp4" type="video/mp4" />
+                <source src="/weiching-chen/P12/d4.mp4" type="video/mp4" />
               </video>
               
             </div>
@@ -95,15 +95,15 @@ class P12Page extends Component {
 
             <div className="gap_h"></div>
 
-            <img src="/P12/warning system.jpg" width="49%" />
+            <img src="/weiching-chen/P12/warning system.jpg" width="49%" />
             <div className="gap_w"></div>
-            <img src="/P12/goldm.png" width="49%" />
+            <img src="/weiching-chen/P12/goldm.png" width="49%" />
             
             <div className="gap_h"></div>
 
             <div className="more_detail">
               <h4>More Details</h4>
-              <p>Learn more about the project: <a href="/P12/poster_1_cwsf.png">[Poster]</a><a href="/P12/poster_2_cwsf.png">[Poster]</a><a href="/P12/report.pdf">[Report]</a><a href="/P12/report_chn.pdf">[Report (Chinese)]</a><a href="https://github.com/w20010703/mTBI_device.git">[GitHub]</a></p>
+              <p>Learn more about the project: <a href="/weiching-chen/P12/poster_1_cwsf.png">[Poster]</a><a href="/weiching-chen/P12/poster_2_cwsf.png">[Poster]</a><a href="/weiching-chen/P12/report.pdf">[Report]</a><a href="/weiching-chen/P12/report_chn.pdf">[Report (Chinese)]</a><a href="https://github.com/w20010703/mTBI_device.git">[GitHub]</a></p>
               <h4>Project Type</h4>
               <p>#Wearable Innovation #Brain Injury Prevention #Rapid Data Collection</p>
               <h4>Personal Contribution</h4>

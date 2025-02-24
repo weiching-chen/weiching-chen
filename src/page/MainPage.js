@@ -24,98 +24,98 @@ class MainPage extends Component {
         "id":"1",
         "title":"Resilient Tensegrity Robot: Inspired by Spider Webs and Melons",
         "description":"Robotics & Structure Design",
-        "imageSrc":"/images/p1_pic.jpg",
-        "url":"/P1Page"
+        "imageSrc":"/weiching-chen/images/p1_pic.jpg",
+        "url":"/weiching-chen/P1Page"
       },{
         "id":"2",
         "title":"Timber Tensegrity Chair",
         "description":"Robotics Fabrication & Design",
-        "imageSrc":"/images/p2_pic.JPG",
-        "url":"/P2Page"
+        "imageSrc":"/weiching-chen/images/p2_pic.JPG",
+        "url":"/weiching-chen/P2Page"
       },{
         "id":"3",
         "title":"PCube",
         "description":"Product Design",
-        "imageSrc":"/images/p3_pic.webp",
-        "url":"/P3Page"
+        "imageSrc":"/weiching-chen/images/p3_pic.webp",
+        "url":"/weiching-chen/P3Page"
       },{
         "id":"15",
         "title":"ThinkBit",
         "description":"LLO & Product Design",
-        "imageSrc":"/images/p15_pic.jpeg",
-        "url":"/P15Page"
+        "imageSrc":"/weiching-chen/images/p15_pic.jpeg",
+        "url":"/weiching-chen/P15Page"
       },{
         "id":"8",
         "title":"MIXI",
         "description":"LLO & Product Design",
-        "imageSrc":"/images/p8_pic.jpg",
-        "url":"/P8Page"
+        "imageSrc":"/weiching-chen/images/p8_pic.jpg",
+        "url":"/weiching-chen/P8Page"
       },{
         "id":"9",
         "title":"Curling Game",
         "description":"1D Game Design",
-        "imageSrc":"/images/p9_pic.JPG",
-        "url":"/P9Page"
+        "imageSrc":"/weiching-chen/images/p9_pic.JPG",
+        "url":"/weiching-chen/P9Page"
       },{
         "id":"4",
         "title":"SIPAI Website",
         "description":"Web Design & Development",
-        "imageSrc":"/images/p4_pic.webp",
-        "url":"/P4Page"
+        "imageSrc":"/weiching-chen/images/p4_pic.webp",
+        "url":"/weiching-chen/P4Page"
       },{
         "id":"5",
         "title":"CrowdEye",
         "description":"Product Design & Machine Learning",
-        "imageSrc":"/images/p5_pic.webp",
-        "url":"/P5Page"
+        "imageSrc":"/weiching-chen/images/p5_pic.webp",
+        "url":"/weiching-chen/P5Page"
       },{
         "id":"16",
         "title":"Time Blossom",
         "description":"Wood Work & Interaction",
-        "imageSrc":"/images/p16_pic.png",
-        "url":"/P16Page"
+        "imageSrc":"/weiching-chen/images/p16_pic.png",
+        "url":"/weiching-chen/P16Page"
       },{
         "id":"6",
         "title":"WaterLover",
         "description":"Product Design & Development",
-        "imageSrc":"/images/p6_pic.webp",
-        "url":"/P6Page"
+        "imageSrc":"/weiching-chen/images/p6_pic.webp",
+        "url":"/weiching-chen/P6Page"
       },{
         "id":"7",
         "title":"CarDay",
         "description":"Product Design & Planning",
-        "imageSrc":"/images/p7_pic.webp",
-        "url":"/P7Page"
+        "imageSrc":"/weiching-chen/images/p7_pic.webp",
+        "url":"/weiching-chen/P7Page"
       },{
         "id":"10",
         "title":"Revitalizing Urban Life: A Mixed-Use Design Integrating Residential Zones with Piers Park",
         "description":"Urban Planning & Design",
-        "imageSrc":"/images/p10_pic.png",
-        "url":"/P10Page"
+        "imageSrc":"/weiching-chen/images/p10_pic.png",
+        "url":"/weiching-chen/P10Page"
       },{
         "id":"11",
         "title":"Smart Necklace",
         "description":"ML & MCU",
-        "imageSrc":"/images/p11_pic.jpg",
-        "url":"/P11Page"
+        "imageSrc":"/weiching-chen/images/p11_pic.jpg",
+        "url":"/weiching-chen/P11Page"
       },{
         "id":"12",
         "title":"A Wearable Mild Traumatic Injury Warning Device of Daily Activities",
         "description":"ML & MCU",
-        "imageSrc":"/images/p12_pic.gif",
-        "url":"/P12Page"
+        "imageSrc":"/weiching-chen/images/p12_pic.gif",
+        "url":"/weiching-chen/P12Page"
       },{
         "id":"13",
         "title":"Gong-pig",
         "description":"Game & Web Development",
-        "imageSrc":"/images/p13_pic.png",
-        "url":"/P13Page"
+        "imageSrc":"/weiching-chen/images/p13_pic.png",
+        "url":"/weiching-chen/P13Page"
       },{
         "id":"14",
         "title":"DoDay Store Design",
         "description":"Brand & Interior Design",
-        "imageSrc":"/images/p14_pic.jpg",
-        "url":"/P14Page"
+        "imageSrc":"/weiching-chen/images/p14_pic.jpg",
+        "url":"/weiching-chen/P14Page"
       }]
     }
 

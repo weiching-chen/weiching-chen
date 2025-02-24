@@ -40,7 +40,7 @@ class P4Page extends Component {
 
           <div className="content_holder">
             <video width="100%" controls>
-              <source src="/P4/sipai_dance_demo.mov" type="video/mp4" />
+              <source src="/weiching-chen/P4/sipai_dance_demo.mov" type="video/mp4" />
             </video>
 
             <div className="gap_h"></div>
@@ -58,13 +58,13 @@ class P4Page extends Component {
                 gap: "10px", /* Adjust the gap as needed */
                 width: "100%"
               }}>
-              <img src="/P4/Sipai_web_final-01.png" style={{ gridColumn: "1", gridRow: "1/5", width: "100%" }} />
-              <img src="/P4/Sipai_web_final-02.png" style={{ gridColumn: "2", gridRow: "1", width: "100%" }} />
-              <img src="/P4/Sipai_web_final-03.png" style={{ gridColumn: "3", gridRow: "1", width: "100%" }} />
-              <img src="/P4/Sipai_web_final-04.png" style={{ gridColumn: "2", gridRow: "2", width: "100%" }} />
-              <img src="/P4/Sipai_web_final-05.png" style={{ gridColumn: "3", gridRow: "2", width: "100%" }} />
+              <img src="/weiching-chen/P4/Sipai_web_final-01.png" style={{ gridColumn: "1", gridRow: "1/5", width: "100%" }} />
+              <img src="/weiching-chen/P4/Sipai_web_final-02.png" style={{ gridColumn: "2", gridRow: "1", width: "100%" }} />
+              <img src="/weiching-chen/P4/Sipai_web_final-03.png" style={{ gridColumn: "3", gridRow: "1", width: "100%" }} />
+              <img src="/weiching-chen/P4/Sipai_web_final-04.png" style={{ gridColumn: "2", gridRow: "2", width: "100%" }} />
+              <img src="/weiching-chen/P4/Sipai_web_final-05.png" style={{ gridColumn: "3", gridRow: "2", width: "100%" }} />
               <video width="100%" controls style={{ padding: "50px 0", gridColumn: "2/4", gridRow: "3", width: "100%" }} >
-                <source src="/P4/sipai.mov" type="video/mp4" />
+                <source src="/weiching-chen/P4/sipai.mov" type="video/mp4" />
               </video>
             </div>
 
@@ -72,7 +72,7 @@ class P4Page extends Component {
 
             <div className="more_detail">
               <h4>More Details</h4>
-              <p>Learn more about the project: <a href="http://sipai.co">[Website]</a><a href="/P4/1.png">[Poster]</a><a href="/P4/2.png">[Poster]</a><a href="/P4/3.png">[Poster]</a><a href="/P4/4.png">[Poster]</a><a href="https://github.com/w20010703/sipai_website.git">[GitHub]</a></p>
+              <p>Learn more about the project: <a href="http://sipai.co">[Website]</a><a href="/weiching-chen/P4/1.png">[Poster]</a><a href="/weiching-chen/P4/2.png">[Poster]</a><a href="/weiching-chen/P4/3.png">[Poster]</a><a href="/weiching-chen/P4/4.png">[Poster]</a><a href="https://github.com/w20010703/sipai_website.git">[GitHub]</a></p>
               <h4>Project Type</h4>
               <p>#WebDesign #Healing #Always Dancing</p>
               <h4>Personal Contribution</h4>

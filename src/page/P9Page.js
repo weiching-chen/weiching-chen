@@ -40,7 +40,7 @@ class P9Page extends Component {
           <div className="content_holder">
 
             <video width="100%" controls>
-              <source src="/P9/curling.mp4" type="video/mp4" />
+              <source src="/weiching-chen/P9/curling.mp4" type="video/mp4" />
             </video>
 
             <div className="gap_h"></div>
@@ -51,19 +51,19 @@ class P9Page extends Component {
 
             <div className="gap_h"></div>
 
-            <img src="/P9/1.jpg" width="100%" />
+            <img src="/weiching-chen/P9/1.jpg" width="100%" />
 
             <div className="gap_h"></div>
             
-            <img src="/P9/3.jpg" width="74%" />
+            <img src="/weiching-chen/P9/3.jpg" width="74%" />
             <div className="gap_w"></div>
-            <img src="/P9/4.jpg" width="24%" />
+            <img src="/weiching-chen/P9/4.jpg" width="24%" />
 
             <div className="gap_h"></div>
 
-            <img src="/P9/5.jpg" width="34%" />
+            <img src="/weiching-chen/P9/5.jpg" width="34%" />
             <div className="gap_w"></div>
-            <img src="/P9/2.jpg" width="64%" />
+            <img src="/weiching-chen/P9/2.jpg" width="64%" />
 
             
 
@@ -71,7 +71,7 @@ class P9Page extends Component {
 
             <div className="more_detail">
               <h4>More Details</h4>
-              <p>Learn more about the project: <a href="/P9/ppt.pdf">[PPT]</a><a href="https://github.com/w20010703/CurlingGame.git">[GitHub]</a></p>
+              <p>Learn more about the project: <a href="/weiching-chen/P9/ppt.pdf">[PPT]</a><a href="https://github.com/w20010703/CurlingGame.git">[GitHub]</a></p>
               <h4>Project Type</h4>
               <p>#Curling Game #Game Development #1D Game #Multiplayer Gaming #Interactive Gaming</p>
               <h4>Personal Contribution</h4>

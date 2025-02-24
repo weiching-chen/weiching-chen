@@ -40,7 +40,7 @@ class P13Page extends Component {
           <div className="content_holder">
 
             <video width="100%" controls>
-              <source src="/P13/final.mp4" type="video/mp4" />
+              <source src="/weiching-chen/P13/final.mp4" type="video/mp4" />
             </video>
 
             <div className="gap_h"></div>
@@ -53,7 +53,7 @@ class P13Page extends Component {
           
             <div className="more_detail">
               <h4>More Details</h4>
-              <p>Learn more about the project: <a href="/P13/ppt.pdf">[PPT]</a><a href="https://github.com/w20010703/gongpig.git">[GitHub]</a></p>
+              <p>Learn more about the project: <a href="/weiching-chen/P13/ppt.pdf">[PPT]</a><a href="https://github.com/w20010703/gongpig.git">[GitHub]</a></p>
               <h4>Project Type</h4>
               <p>#Online Poker Card Game #Web Development</p>
               <h4>Personal Contribution</h4>
