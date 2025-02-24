@@ -38,7 +38,7 @@ class P2Page extends Component {
           <h5 className="team">{this.state.team}</h5>
 
           <div className="content_holder">
-            <img src="/weiching-chen/P2/2.png" width="100%" />
+            <img src="/P2/2.png" width="100%" />
 
             <div className="gap_h"></div>
 
@@ -48,13 +48,13 @@ class P2Page extends Component {
 
             <div className="gap_h"></div>
 
-            <img src="/weiching-chen/P2/1.png" width="100%" />
+            <img src="/P2/1.png" width="100%" />
 
             <div className="gap_h"></div>
 
-            <img src="/weiching-chen/P2/3.png" width="49%" />
+            <img src="/P2/3.png" width="49%" />
             <div className="gap_w"></div>
-            <img src="/weiching-chen/P2/4.png" width="49%" />
+            <img src="/P2/4.png" width="49%" />
 
             <div className="gap_h"></div>
             <div className="gap_h"></div>
@@ -66,14 +66,14 @@ class P2Page extends Component {
             <div className="gap_h"></div>
 
             <video width="100%" controls>
-              <source src="/weiching-chen/P2/ROBOTIC FABRICATION & DESIGN.mp4" type="video/mp4" />
+              <source src="/P2/ROBOTIC FABRICATION & DESIGN.mp4" type="video/mp4" />
             </video>
 
             <div className="gap_h"></div>
 
             <div className="more_detail">
               <h4>More Details</h4>
-              <p>Learn more about the project: <a href="/weiching-chen/P2/poster1.png">[Poster]</a><a href="/weiching-chen/P2/poster2.png">[Poster]</a></p>
+              <p>Learn more about the project: <a href="/P2/poster1.png">[Poster]</a><a href="/P2/poster2.png">[Poster]</a></p>
               <h4>Project Type</h4>
               <p>#Tensegrity Design #Robotic Fabrication #CNC Automation #Parametric Design</p>
               <h4>Personal Contribution</h4>

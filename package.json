@@ -1,7 +1,7 @@
 {
   "name": "juliaweb2025",
   "version": "0.1.0",
-  "homepage": "http://weiching-chen.github.io/weiching-chen",
+  "homepage": "https://weiching-chen.github.io/weiching-chen",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",

@@ -40,7 +40,7 @@ class P11Page extends Component {
           <div className="content_holder">
 
             <video width="100%" controls>
-              <source src="/weiching-chen/P11/Google Science Fair -- Smart Necklace.mp4" type="video/mp4" />
+              <source src="/P11/Google Science Fair -- Smart Necklace.mp4" type="video/mp4" />
             </video>
 
             <div className="gap_h"></div>
@@ -52,19 +52,19 @@ class P11Page extends Component {
             <div className="gap_h"></div>
 
             <video width="40%" controls>
-              <source src="/weiching-chen/P11/gsf_video.mp4" type="video/mp4" />
+              <source src="/P11/gsf_video.mp4" type="video/mp4" />
             </video>
 
             <div className="gap_w"></div>
             <div className="gap_w"></div>
 
             <video width="56%" controls>
-              <source src="/weiching-chen/P11/gsf_contribution.mp4" type="video/mp4" />
+              <source src="/P11/gsf_contribution.mp4" type="video/mp4" />
             </video>
 
             <div className="gap_h"></div>
 
-            <img src="/weiching-chen/P11/_p11_pic.jpg" width="100%" />
+            <img src="/P11/_p11_pic.jpg" width="100%" />
 
           
             <div className="more_detail">

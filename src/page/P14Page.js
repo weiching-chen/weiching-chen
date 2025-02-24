@@ -39,7 +39,7 @@ class P14Page extends Component {
 
           <div className="content_holder">
 
-            <img src="/weiching-chen/P14/p1.jpg" width="100%" />
+            <img src="/P14/p1.jpg" width="100%" />
 
             <div className="gap_h"></div>
 
@@ -49,39 +49,39 @@ class P14Page extends Component {
 
             <div className="gap_h"></div>
 
-            <img src="/weiching-chen/P14/doday_nashan_0221.png" width="49%" />
+            <img src="/P14/doday_nashan_0221.png" width="49%" />
             <div className="gap_w"></div>
-            <img src="/weiching-chen/P14/doday_nashan_0221-2.png" width="49%" />
+            <img src="/P14/doday_nashan_0221-2.png" width="49%" />
 
             <div className="gap_h"></div>
 
-            <img src="/weiching-chen/P14/doday_nashan_0221-3.png" width="49%" />
+            <img src="/P14/doday_nashan_0221-3.png" width="49%" />
             <div className="gap_w"></div>
-            <img src="/weiching-chen/P14/doday_nashan_0221-4.png" width="49%" />
+            <img src="/P14/doday_nashan_0221-4.png" width="49%" />
 
             <div className="gap_h"></div>
 
-            <img src="/weiching-chen/P14/doday_nashan_0221-5.png" width="49%" />
+            <img src="/P14/doday_nashan_0221-5.png" width="49%" />
             <div className="gap_w"></div>
-            <img src="/weiching-chen/P14/doday_nashan_0221-6.png" width="49%" />
+            <img src="/P14/doday_nashan_0221-6.png" width="49%" />
 
             <div className="gap_h"></div>
 
-            <img src="/weiching-chen/P14/doday_nashan_0221-7.png" width="49%" />
+            <img src="/P14/doday_nashan_0221-7.png" width="49%" />
             <div className="gap_w"></div>
-            <img src="/weiching-chen/P14/doday_nashan_0221-8.png" width="49%" />
+            <img src="/P14/doday_nashan_0221-8.png" width="49%" />
 
             <div className="gap_h"></div>
 
-            <img src="/weiching-chen/P14/1.png" width="49%" />
+            <img src="/P14/1.png" width="49%" />
             <div className="gap_w"></div>
-            <img src="/weiching-chen/P14/2.png" width="49%" />
+            <img src="/P14/2.png" width="49%" />
             
             <div className="gap_h"></div>
             
-            <img src="/weiching-chen/P14/p3.jpg" width="49%" />
+            <img src="/P14/p3.jpg" width="49%" />
             <div className="gap_w"></div>
-            <img src="/weiching-chen/P14/p4.jpg" width="49%" />
+            <img src="/P14/p4.jpg" width="49%" />
 
             <div className="gap_h"></div>
             

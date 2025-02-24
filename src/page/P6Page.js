@@ -39,9 +39,9 @@ class P6Page extends Component {
 
           <div className="content_holder">
 
-            <img src="/weiching-chen/P6/waterlover_img.jpg" width="49%" />
+            <img src="/P6/waterlover_img.jpg" width="49%" />
             <div className="gap_w"></div>
-            <img src="/weiching-chen/P6/waterlover_img2.jpg" width="49%" />
+            <img src="/P6/waterlover_img2.jpg" width="49%" />
 
             <div className="gap_h"></div>
 
@@ -52,7 +52,7 @@ class P6Page extends Component {
             <div className="gap_h"></div>
 
             <video width="100%" controls>
-              <source src="/weiching-chen/P6/waterlover.mov" type="video/mp4" />
+              <source src="/P6/waterlover.mov" type="video/mp4" />
             </video>
 
             <div className="gap_h"></div>
@@ -61,7 +61,7 @@ class P6Page extends Component {
 
             <div className="more_detail">
               <h4>More Details</h4>
-              <p>Learn more about the project: <a href="/weiching-chen/P6/1.png">[Poster]</a><a href="/weiching-chen/P6/2.png">[Poster]</a><a href="/weiching-chen/P6/3.png">[Poster]</a><a href="/weiching-chen/P6/4.png">[Poster]</a></p>
+              <p>Learn more about the project: <a href="/P6/1.png">[Poster]</a><a href="/P6/2.png">[Poster]</a><a href="/P6/3.png">[Poster]</a><a href="/P6/4.png">[Poster]</a></p>
               <h4>Project Type</h4>
               <p>#Product Design #Environmental Water Conservation #Mechanical Control</p>
               <h4>Personal Contribution</h4>

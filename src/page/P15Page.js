@@ -40,7 +40,7 @@ class P15Page extends Component {
           <div className="content_holder">
 
             <video width="100%" controls>
-              <source src="/weiching-chen/P15/main.mp4" type="video/mp4" />
+              <source src="/P15/main.mp4" type="video/mp4" />
             </video>
 
             <div className="gap_h"></div>
@@ -52,7 +52,7 @@ class P15Page extends Component {
             <div className="gap_h"></div>
 
             <video width="100%" controls>
-              <source src="/weiching-chen/P15/UI.mov" type="video/mp4" />
+              <source src="/P15/UI.mov" type="video/mp4" />
             </video>
 
             <div className="gap_h"></div>
@@ -62,15 +62,15 @@ class P15Page extends Component {
             <iframe width="49%" height="300px" src="https://www.youtube.com/embed/VukO05sDp5o?si=-xtwEPmwf-HqW7FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             <div className="gap_h"></div>
 
-            <img src="/weiching-chen/P15/2.jpeg" width="49%" />
+            <img src="/P15/2.jpeg" width="49%" />
             <div className="gap_w"></div>
-            <img src="/weiching-chen/P15/3.jpeg" width="49%" />
+            <img src="/P15/3.jpeg" width="49%" />
 
             <div className="gap_h"></div>
 
-            <img src="/weiching-chen/P15/5.jpeg" width="49%" />
+            <img src="/P15/5.jpeg" width="49%" />
             <div className="gap_w"></div>
-            <img src="/weiching-chen/P15/4.jpeg" width="49%" />
+            <img src="/P15/4.jpeg" width="49%" />
 
             <div className="gap_h"></div>
 

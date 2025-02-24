@@ -39,9 +39,9 @@ class P16Page extends Component {
 
           <div className="content_holder">
 
-            <img src="/weiching-chen/P16/hero1.png" width="49%"/>
+            <img src="/P16/hero1.png" width="49%"/>
             <div className="gap_w"></div>
-            <img src="/weiching-chen/P16/hero1.png" width="49%"/>
+            <img src="/P16/hero1.png" width="49%"/>
 
             <div className="gap_h"></div>
 
@@ -51,14 +51,14 @@ class P16Page extends Component {
 
             <div className="gap_h"></div>
 
-            <img src="/weiching-chen/P16/detail.png" width="100%"/>
+            <img src="/P16/detail.png" width="100%"/>
 
             <div className="gap_h"></div>
 
 
             <div className="more_detail">
               <h4>More Details</h4>
-              <p>Learn more about the project: <a href="/weiching-chen/P16/proj1.pdf">[PPT]</a><a href="https://github.com/w20010703/TimeBlossom.git">[GitHub]</a></p>
+              <p>Learn more about the project: <a href="/P16/proj1.pdf">[PPT]</a><a href="https://github.com/w20010703/TimeBlossom.git">[GitHub]</a></p>
               <h4>Project Type</h4>
               <p>#Smart Home Decoration #Google Calendar Integration #IoT Design</p>
               <h4>Personal Contribution</h4>

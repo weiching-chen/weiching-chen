@@ -39,7 +39,7 @@ class P10Page extends Component {
 
           <div className="content_holder">
 
-            <img src="/weiching-chen/P10/main.png" width="100%" />
+            <img src="/P10/main.png" width="100%" />
 
             <div className="gap_h"></div>
 
@@ -49,21 +49,21 @@ class P10Page extends Component {
 
             <div className="gap_h"></div>
 
-            <img src="/weiching-chen/P10/c1.png" width="100%" />
+            <img src="/P10/c1.png" width="100%" />
 
             <div className="gap_h"></div>
             
-            <img src="/weiching-chen/P10/c2.png" width="100%" />
+            <img src="/P10/c2.png" width="100%" />
 
             <div className="gap_h"></div>
 
-            <img src="/weiching-chen/P10/1.jpg" width="23.5%" />
+            <img src="/P10/1.jpg" width="23.5%" />
             <div className="gap_w"></div>
-            <img src="/weiching-chen/P10/2.jpg" width="23.5%" />
+            <img src="/P10/2.jpg" width="23.5%" />
             <div className="gap_w"></div>
-            <img src="/weiching-chen/P10/3.jpg" width="23.5%" />
+            <img src="/P10/3.jpg" width="23.5%" />
             <div className="gap_w"></div>
-            <img src="/weiching-chen/P10/4.jpg" width="23.5%" />
+            <img src="/P10/4.jpg" width="23.5%" />
 
             <div className="gap_h"></div>
             <div className="gap_h"></div>
@@ -74,13 +74,13 @@ class P10Page extends Component {
             <div className="gap_h"></div>
             <div className="gap_h"></div>
 
-            <img src="/weiching-chen/P10/r2.png" width="100%" />
+            <img src="/P10/r2.png" width="100%" />
 
             <div className="gap_h"></div>
 
             <div className="more_detail">
               <h4>More Details</h4>
-              <p>Learn more about the project: <a href="/weiching-chen/P10/ppt.pdf">[PPT]</a><a href="/weiching-chen/P10/site.png">[Site Portrait]</a><a href="/weiching-chen/P10/DD23Cert.pdf">[Certificate]</a><a href="/weiching-chen/P10/Julia_Chen.pdf">[Evaluation]</a></p>
+              <p>Learn more about the project: <a href="/P10/ppt.pdf">[PPT]</a><a href="/P10/site.png">[Site Portrait]</a><a href="/P10/DD23Cert.pdf">[Certificate]</a><a href="/P10/Julia_Chen.pdf">[Evaluation]</a></p>
               <h4>Project Type</h4>
               <p>#Resident Experience #City Planning #Urban Design #Housing Design</p>
               <h4>Personal Contribution</h4>

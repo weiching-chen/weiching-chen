@@ -39,7 +39,7 @@ class P7Page extends Component {
 
           <div className="content_holder">
 
-            <img src="/weiching-chen/P7/c2.png" width="100%" />
+            <img src="/P7/c2.png" width="100%" />
 
             <div className="gap_h"></div>
 
@@ -47,19 +47,19 @@ class P7Page extends Component {
               <h2>" Power Your Adventure: Innovative Parking Lot Designs for the Future of Park-and-Rest. "</h2>
             </div>
 
-            <img src="/weiching-chen/P7/c3.png" width="100%" />
+            <img src="/P7/c3.png" width="100%" />
 
             <div className="gap_h"></div>
 
-            <img src="/weiching-chen/P7/c1.png" width="49%" />
+            <img src="/P7/c1.png" width="49%" />
             <div className="gap_w"></div>
-            <img src="/weiching-chen/P7/c4.png" width="49%" />
+            <img src="/P7/c4.png" width="49%" />
 
             <div className="gap_h"></div>
 
             <div className="more_detail">
               <h4>More Details</h4>
-              <p>Learn more about the project: <a href="/weiching-chen/P7/11.png">[Poster]</a><a href="/weiching-chen/P7/22.png">[Poster]</a><a href="/weiching-chen/P7/33.png">[Poster]</a><a href="/weiching-chen/P7/44.png">[Poster]</a></p>
+              <p>Learn more about the project: <a href="/P7/11.png">[Poster]</a><a href="/P7/22.png">[Poster]</a><a href="/P7/33.png">[Poster]</a><a href="/P7/44.png">[Poster]</a></p>
               <h4>Project Type</h4>
               <p>#Product Design #Parking Lot Design #Renewable energy</p>
               <h4>Personal Contribution</h4>
