@@ -15,7 +15,7 @@ class Header extends Component {
     render() {
         return (
             <div className="main_header">
-                <h2 className="main_header_title"><a href="/MainPage">{this.state.title}</a></h2>
+                <h2 className="main_header_title"><a href="/weiching-chen/MainPage">{this.state.title}</a></h2>
                 <div className="main_header_item_holder">
                 {this.state.subtitle.map((item, index) => {
                     return (
