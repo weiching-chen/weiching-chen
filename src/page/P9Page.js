@@ -39,9 +39,7 @@ class P9Page extends Component {
 
           <div className="content_holder">
 
-            <video width="100%" controls>
-              <source src="/weiching-chen/P9/curling.mp4" type="video/mp4" />
-            </video>
+            <iframe width="100%" height="550" src="https://www.youtube.com/embed/TQtOJr-NRKM?si=4Ovi0wBVdEzQ_5qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
             <div className="gap_h"></div>
 

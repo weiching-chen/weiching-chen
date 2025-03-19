@@ -39,9 +39,7 @@ class P4Page extends Component {
 
 
           <div className="content_holder">
-            <video width="100%" controls>
-              <source src="/weiching-chen/P4/sipai_dance_demo.mov" type="video/mp4" />
-            </video>
+            <iframe width="100%" height="550" src="https://www.youtube.com/embed/XDZ9JTaivAI?si=iYLFmnLRda1MC_Xw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
             <div className="gap_h"></div>
 
@@ -63,9 +61,7 @@ class P4Page extends Component {
               <img src="/weiching-chen/P4/Sipai_web_final-03.png" style={{ gridColumn: "3", gridRow: "1", width: "100%" }} />
               <img src="/weiching-chen/P4/Sipai_web_final-04.png" style={{ gridColumn: "2", gridRow: "2", width: "100%" }} />
               <img src="/weiching-chen/P4/Sipai_web_final-05.png" style={{ gridColumn: "3", gridRow: "2", width: "100%" }} />
-              <video width="100%" controls style={{ padding: "50px 0", gridColumn: "2/4", gridRow: "3", width: "100%" }} >
-                <source src="/weiching-chen/P4/sipai.mov" type="video/mp4" />
-              </video>
+              <iframe width="100%" height="380" style={{ padding: "50px 0", gridColumn: "2/4", gridRow: "3", width: "100%" }} src="https://www.youtube.com/embed/0WUH3Y8uEB8?si=XtAfyQO1_EvfS8UQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
 
             <div className="gap_h"></div>

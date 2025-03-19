@@ -19,7 +19,7 @@ class P11Page extends Component {
 
     this.state = {
       date: "2019 Summer",
-      award: "Google Science Fair 2019 Finalist",
+      award: "Google Science Fair 2019 Finalist  (Top 20)",
       title: "Smart Necklace",
       team: "[Team Project by a 1-Person Team]",
       introduction: "",
@@ -39,10 +39,8 @@ class P11Page extends Component {
 
           <div className="content_holder">
 
-            <video width="100%" controls>
-              <source src="/weiching-chen/P11/Google Science Fair -- Smart Necklace.mp4" type="video/mp4" />
-            </video>
-
+            <iframe width="100%" height="550" src="https://www.youtube.com/embed/_SDu8WaNgfc?si=ynm15rZL4NixiL9t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            
             <div className="gap_h"></div>
 
             <div className="design_goal">
@@ -51,16 +49,12 @@ class P11Page extends Component {
 
             <div className="gap_h"></div>
 
-            <video width="40%" controls>
-              <source src="/weiching-chen/P11/gsf_video.mp4" type="video/mp4" />
-            </video>
+            <iframe width="42%" height="315" src="https://www.youtube.com/embed/kGDXHznYPWo?si=bovM9CgR7HqOLXfJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
             <div className="gap_w"></div>
             <div className="gap_w"></div>
 
-            <video width="56%" controls>
-              <source src="/weiching-chen/P11/gsf_contribution.mp4" type="video/mp4" />
-            </video>
+            <iframe width="54%" height="315" src="https://www.youtube.com/embed/OPLX5owCAJE?si=sfaPYqk8_upUI9GC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
             <div className="gap_h"></div>
 

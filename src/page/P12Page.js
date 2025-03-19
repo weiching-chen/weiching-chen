@@ -39,9 +39,7 @@ class P12Page extends Component {
 
           <div className="content_holder">
 
-            <video width="100%" controls>
-              <source src="/weiching-chen/P12/quick.mov" type="video/mp4" />
-            </video>
+            <iframe width="100%" height="550" src="https://www.youtube.com/embed/B1Afo5ergNs?si=gTMgwbor614SAkwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
             <div className="gap_h"></div>
 
@@ -51,16 +49,6 @@ class P12Page extends Component {
 
             <div className="gap_h"></div>
 
-            
-            
-            
-
-            
-
-
-            <div className="gap_h"></div>
-
-
             <div style={{
                 display: "grid",
                 gridTemplateColumns: "0.65fr 1fr 1fr", /* Three equal columns */
@@ -69,25 +57,16 @@ class P12Page extends Component {
                 width: "100%"
               }}>
 
-              <video width="17.5%" controls  style={{ gridColumn: "1", gridRow: "1/3", width: "100%" }} >
-                <source src="/weiching-chen/P12/final.mov" type="video/mp4" />
-              </video>
+              
+              <iframe width="17.5%" height="380" style={{ gridColumn: "1", gridRow: "1/3", width: "100%" }} src="https://youtube.com/embed/LtssVXBz6sQ?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+              
+              <iframe width="50%" height="185" controls style={{ gridColumn: "2", gridRow: "1", width: "100%" }} src="https://www.youtube.com/embed/JwUy40o59C0?si=_GcJkpvKEUNewZBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-              <video width="50%" controls style={{ gridColumn: "2", gridRow: "1", width: "100%" }} >
-                <source src="/weiching-chen/P12/d1.mp4" type="video/mp4" />
-              </video>
+              <iframe width="50%" height="185" style={{ gridColumn: "3", gridRow: "1", width: "100%" }} src="https://www.youtube.com/embed/7VNeBQ75lsU?si=ohuf05nTbMiyLSU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-              <video width="50%" controls style={{ gridColumn: "3", gridRow: "1", width: "100%" }} >
-                <source src="/weiching-chen/P12/d2.mp4" type="video/mp4" />
-              </video>
+              <iframe width="50%" height="185" style={{ gridColumn: "2", gridRow: "2", width: "100%" }} src="https://www.youtube.com/embed/qaPwct16Xv8?si=GN_V6zf0XR9lStgf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-              <video width="50%" controls style={{ gridColumn: "2", gridRow: "2", width: "100%" }} >
-                <source src="/weiching-chen/P12/d3.mp4" type="video/mp4" />
-              </video>
-
-              <video width="50%" controls style={{ gridColumn: "3", gridRow: "2", width: "100%" }} >
-                <source src="/weiching-chen/P12/d4.mp4" type="video/mp4" />
-              </video>
+              <iframe width="50%" height="185" style={{ gridColumn: "3", gridRow: "2", width: "100%" }} src="https://www.youtube.com/embed/UsrBL3J5jXs?si=hgI1TZvVYLYDzyUX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
               
             </div>
 

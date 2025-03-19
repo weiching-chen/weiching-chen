@@ -39,9 +39,7 @@ class P1Page extends Component {
 
           <div className="content_holder">
 
-            <video width="100%" controls>
-              <source src="/weiching-chen/P1/final.MOV" type="video/mp4" />
-            </video>
+            <iframe width="100%" height="550" src="https://www.youtube.com/embed/41ZSKge1-As?si=ocPMQRj-4q03l6jQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
             <div className="gap_h"></div>
 
@@ -50,20 +48,22 @@ class P1Page extends Component {
             </div>
 
             <div className="gap_h"></div>
-
-            <video width="49%" controls>
-              <source src="/weiching-chen/P1/1.mp4" type="video/mp4" />
-            </video>
-
+            
+            <iframe width="49%" height="800" src="https://youtube.com/embed/IkHI9EKL14o?si=DCGROeW5yyKDmH0y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             <div className="gap_w"></div>
-
-            <video width="49%" controls>
-              <source src="/weiching-chen/P1/2.mp4" type="video/mp4" />
-            </video>
+            <iframe width="49%" height="800" src="https://youtube.com/embed/Q3iZUfIgCU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
             <div className="gap_h"></div>
 
-            <img src="/weiching-chen/P1/6.png" width="100%" />
+            <iframe width="100%" height="600" src="https://www.youtube.com/embed/Fc3JNfCCV2A?si=T2vPG0l4pqxDxqcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+            <div className="gap_h"></div>
+
+            <img src="/weiching-chen/P1/6.jpg" width="32%" />
+            <div className="gap_w"></div>
+            <img src="/weiching-chen/P1/8.jpg" width="32%" />
+            <div className="gap_w"></div>
+            <img src="/weiching-chen/P1/7.jpg" width="32%" />
 
             <div className="gap_h"></div>
 

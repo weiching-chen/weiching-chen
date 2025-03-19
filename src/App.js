@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 import React from 'react'
@@ -28,6 +27,14 @@ import P13Page from './page/P13Page'
 import P14Page from './page/P14Page'
 import P15Page from './page/P15Page'
 import P16Page from './page/P16Page'
+import P17Page from './page/P17Page'
+import P18Page from './page/P18Page'
+import P19Page from './page/P19Page'
+import P20Page from './page/P20Page'
+import P21Page from './page/P21Page'
+import P22Page from './page/P22Page'
+import P23Page from './page/P23Page'
+import P24Page from './page/P24Page'
 
 import CVPage from './page/CVPage'
 
@@ -40,8 +47,7 @@ function App() {
       <Header />
       <BrowserRouter basename="/weiching-chen">
         <Routes>
-          <Route path="/" element={<Navigate replace to="/MainPage" />} />
-          <Route path="/MainPage" element={<MainPage />} />
+          <Route path="/" element={<MainPage />} />
           <Route path="/P1Page" element={<P1Page />} />
           <Route path="/P2Page" element={<P2Page />} />
           <Route path="/P3Page" element={<P3Page />} />
@@ -58,6 +64,14 @@ function App() {
           <Route path="/P14Page" element={<P14Page />} />
           <Route path="/P15Page" element={<P15Page />} />
           <Route path="/P16Page" element={<P16Page />} />
+          <Route path="/P17Page" element={<P17Page />} />
+          <Route path="/P18Page" element={<P18Page />} />
+          <Route path="/P19Page" element={<P19Page />} />
+          <Route path="/P20Page" element={<P20Page />} />
+          <Route path="/P21Page" element={<P21Page />} />
+          <Route path="/P22Page" element={<P22Page />} />
+          <Route path="/P23Page" element={<P23Page />} />
+          <Route path="/P24Page" element={<P24Page />} />
           <Route path="/CVPage" element={<CVPage />} />
         </Routes>
       </BrowserRouter>

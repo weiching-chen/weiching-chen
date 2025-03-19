@@ -39,9 +39,7 @@ class P1Page extends Component {
 
           <div className="content_holder">
 
-            <video width="100%" controls>
-              <source src="/weiching-chen/P5/linefresh_demo_eng_sub.mp4" type="video/mp4" />
-            </video>
+            <iframe width="100%" height="550" src="https://www.youtube.com/embed/FwKuftUC5v8?si=_cXVLr1mqyNe23rV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
             <div className="gap_h"></div>
 
@@ -59,9 +57,7 @@ class P1Page extends Component {
 
             <img src="/weiching-chen/P5/c2.jpg" width="49%" />
             <div className="gap_w"></div>
-            <video width="49%" controls>
-              <source src="/weiching-chen/P5/backend_server.mp4" type="video/mp4" />
-            </video>
+            <iframe width="49%" height="315" src="https://www.youtube.com/embed/OdGjQj-xU_c?si=-Nc-i4LWXCR5q5p9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
             <div className="gap_h"></div>
 

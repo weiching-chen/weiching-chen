@@ -51,9 +51,7 @@ class P6Page extends Component {
 
             <div className="gap_h"></div>
 
-            <video width="100%" controls>
-              <source src="/weiching-chen/P6/waterlover.mov" type="video/mp4" />
-            </video>
+            <iframe width="100%" height="550" src="https://www.youtube.com/embed/zQbjWkamzYM?si=0vbrdjKX9qXmOZgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
             <div className="gap_h"></div>
 

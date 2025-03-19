@@ -65,9 +65,7 @@ class P2Page extends Component {
             <div className="gap_h"></div>
             <div className="gap_h"></div>
 
-            <video width="100%" controls>
-              <source src="/weiching-chen/P2/ROBOTIC FABRICATION & DESIGN.mp4" type="video/mp4" />
-            </video>
+            <iframe width="100%" height="550" src="https://www.youtube.com/embed/lxMmJ4DFwqs?si=QYsNOZF-wmFjQAvF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
             <div className="gap_h"></div>
 
