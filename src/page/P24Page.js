@@ -12,7 +12,7 @@ import WorkCard from '../component/WorkCard'
 // import { setCookie, getCookie } from '../cookie_utils.js'
 
 
-class P23Page extends Component {
+class P24Page extends Component {
 
   constructor(props) {
     super(props);
@@ -90,4 +90,4 @@ class P23Page extends Component {
       
 }
 
-export default P23Page;
+export default P24Page;

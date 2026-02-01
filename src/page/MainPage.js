@@ -32,6 +32,48 @@ class MainPage extends Component {
         "description":"Cornell 24 Fall",
         "imageSrc":"/images/p2_pic.JPG",
         "url":"/P2Page"
+      },{
+        "id":"25",
+        "title":"AIDtensegrity - Tensioned for Relief",
+        "description":"Cornell 25 Spring",
+        "imageSrc":"/images/p25_pic.gif",
+        "url":"/P25Page"
+      },{
+        "id":"26",
+        "title":"The Stratum Morphological Model",
+        "description":"Cornell 25 Spring",
+        "imageSrc":"/images/p26_pic.png",
+        "url":"/P26Page"
+      },{
+        "id":"27",
+        "title":"VR Teleoperation for PhantomX Arm (ROS 2 & MoveIt 2)",
+        "description":"Cornell XRC Lab",
+        "imageSrc":"/images/p27_pic.png",
+        "url":"/P27Page"
+      },{
+        "id":"28",
+        "title":"Go2 Legged Patrol Robot",
+        "description":"nexuni - AI Security",
+        "imageSrc":"/images/p28_pic.png",
+        "url":"/P28Page"
+      },{
+        "id":"29",
+        "title":"Math Voyage: The Cargo Challenge",
+        "description":"Cornell 25 Fall",
+        "imageSrc":"/images/p29_pic.png",
+        "url":"/P29Page"
+      },{
+        "id":"30",
+        "title":"Optimizing the Robotic Sled Dog’s Locomotion Using Reinforcement Learning",
+        "description":"Cornell 25 Spring",
+        "imageSrc":"/images/p30_pic.gif",
+        "url":"/P30Page"
+      },{
+        "id":"41",
+        "title":"Prusa MK4 3D Printer GCode Generator",
+        "description":"Cornell 25 Spring",
+        "imageSrc":"/images/p41_pic.png",
+        "url":"/P41Page"
       }],
       p2: [
       {
@@ -82,6 +124,60 @@ class MainPage extends Component {
         "description":"Independent Project",
         "imageSrc":"/images/p6_pic.webp",
         "url":"/P6Page"
+      },{
+        "id":"31",
+        "title":"Walkie",
+        "description":"Cornell 25 Fall",
+        "imageSrc":"/images/p31_pic.jpg",
+        "url":"/P31Page"
+      },{
+        "id":"32",
+        "title":"MIXI 2.0",
+        "description":"Cornell 25 Fall",
+        "imageSrc":"/images/p32_pic.png",
+        "url":"/P32Page"
+      },{
+        "id":"33",
+        "title":"Flourisa",
+        "description":"Cornell 25 Spring",
+        "imageSrc":"/images/p33_pic.png",
+        "url":"/P33Page"
+      },{
+        "id":"35",
+        "title":"The Clock of Pi",
+        "description":"Cornell 25 Fall",
+        "imageSrc":"/images/p35_pic.gif",
+        "url":"/P35Page"
+      },{
+        "id":"36",
+        "title":"Chatterboxes",
+        "description":"Cornell 25 Fall",
+        "imageSrc":"/images/p36_pic.png",
+        "url":"/P36Page"
+      },{
+        "id":"37",
+        "title":"Ph-UI!!!",
+        "description":"Cornell 25 Fall",
+        "imageSrc":"/images/p37_pic.png",
+        "url":"/P37Page"
+      },{
+        "id":"38",
+        "title":"Observant Systems",
+        "description":"Cornell 25 Fall",
+        "imageSrc":"/images/p38_pic.png",
+        "url":"/P38Page"
+      },{
+        "id":"39",
+        "title":"Little Interactions Everywhere",
+        "description":"Cornell 25 Fall",
+        "imageSrc":"/images/p39_pic.png",
+        "url":"/P39Page"
+      },{
+        "id":"40",
+        "title":"Lovely Leverly Magical Manual Machine",
+        "description":"Cornell 25 Spring",
+        "imageSrc":"/images/p40_pic.png",
+        "url":"/P40Page"
       }],
       p3: [
       {
@@ -140,6 +236,12 @@ class MainPage extends Component {
         "description":"NTU 2019 Fall",
         "imageSrc":"/images/p13_pic.png",
         "url":"/P13Page"
+      },{
+        "id":"34",
+        "title":"Lumière",
+        "description":"Cornell 25 Fall",
+        "imageSrc":"/images/p34_pic.png",
+        "url":"/P34Page"
       }],
       p5: [
       {

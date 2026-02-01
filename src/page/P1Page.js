@@ -59,11 +59,11 @@ class P1Page extends Component {
 
             <div className="gap_h"></div>
 
-            <img src="/weiching-chen/P1/6.jpg" width="32%" />
+            <img src="/weiching-chen/P1/6.JPG" width="32%" />
             <div className="gap_w"></div>
-            <img src="/weiching-chen/P1/8.jpg" width="32%" />
+            <img src="/weiching-chen/P1/8.JPG" width="32%" />
             <div className="gap_w"></div>
-            <img src="/weiching-chen/P1/7.jpg" width="32%" />
+            <img src="/weiching-chen/P1/7.JPG" width="32%" />
 
             <div className="gap_h"></div>
 

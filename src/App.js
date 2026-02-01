@@ -35,6 +35,23 @@ import P21Page from './page/P21Page'
 import P22Page from './page/P22Page'
 import P23Page from './page/P23Page'
 import P24Page from './page/P24Page'
+import P25Page from './page/P25Page'
+import P26Page from './page/P26Page'
+import P27Page from './page/P27Page'
+import P28Page from './page/P28Page'
+import P29Page from './page/P29Page'
+import P30Page from './page/P30Page'
+import P31Page from './page/P31Page'
+import P32Page from './page/P32Page'
+import P33Page from './page/P33Page'
+import P34Page from './page/P34Page'
+import P35Page from './page/P35Page'
+import P36Page from './page/P36Page'
+import P37Page from './page/P37Page'
+import P38Page from './page/P38Page'
+import P39Page from './page/P39Page'
+import P40Page from './page/P40Page'
+import P41Page from './page/P41Page'
 
 import CVPage from './page/CVPage'
 
@@ -72,6 +89,23 @@ function App() {
           <Route path="/P22Page" element={<P22Page />} />
           <Route path="/P23Page" element={<P23Page />} />
           <Route path="/P24Page" element={<P24Page />} />
+          <Route path="/P25Page" element={<P25Page />} />
+          <Route path="/P26Page" element={<P26Page />} />
+          <Route path="/P27Page" element={<P27Page />} />
+          <Route path="/P28Page" element={<P28Page />} />
+          <Route path="/P29Page" element={<P29Page />} />
+          <Route path="/P30Page" element={<P30Page />} />
+          <Route path="/P31Page" element={<P31Page />} />
+          <Route path="/P32Page" element={<P32Page />} />
+          <Route path="/P33Page" element={<P33Page />} />
+          <Route path="/P34Page" element={<P34Page />} />
+          <Route path="/P35Page" element={<P35Page />} />
+          <Route path="/P36Page" element={<P36Page />} />
+          <Route path="/P37Page" element={<P37Page />} />
+          <Route path="/P38Page" element={<P38Page />} />
+          <Route path="/P39Page" element={<P39Page />} />
+          <Route path="/P40Page" element={<P40Page />} />
+          <Route path="/P41Page" element={<P41Page />} />
           <Route path="/CVPage" element={<CVPage />} />
         </Routes>
       </BrowserRouter>
