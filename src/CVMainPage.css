@@ -1,0 +1,360 @@
+:root {
+  --bg: #000;
+  --text: #ccd6f6;
+  --muted: #8892b0;
+  --accent: #64ffda;
+  --card: #bdf8ff20;
+  --card-border: #235254;
+}
+
+.cv-page {
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+.cv-layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 4rem 1.25rem;
+}
+
+@media (min-width: 992px) {
+  .cv-layout {
+    grid-template-columns: 340px 1fr;
+    gap: 3rem;
+    padding: 2rem 2rem;
+    height: calc(100vh - 4rem);
+    overflow: hidden;
+  }
+}
+
+.cv-aside {
+  position: sticky;
+  top: 0;
+  align-self: start;
+  padding: 8rem 0;
+  height: max(60vh, 500px);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.cv-name {
+  font-size: clamp(28px, 4vw, 40px);
+  margin: 0 0 0.5rem;
+  line-height: 1.1;
+}
+
+.cv-role {
+  font-size: 18px;
+  color: var(--muted);
+  margin: 0 0 1rem;
+}
+
+.cv-summary {
+  color: var(--muted);
+  line-height: 1.65;
+  margin: 0.75rem 0 0;
+}
+
+.cv-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0 0;
+  display: grid;
+  gap: 0.5rem;
+}
+
+.cv-nav a {
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  padding-bottom: 2px;
+}
+
+.cv-nav a.cv-nav-link.active {
+  color: var(--accent);
+  border-color: var(--accent);
+  font-weight: 600;
+}
+
+.cv-nav a:hover,
+.cv-nav a:focus {
+  color: var(--accent);
+  border-color: var(--accent);
+  outline: none;
+}
+
+.cv-social {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0 0;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.cv-social a {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+
+.cv-social a:hover,
+.cv-social a:focus {
+  color: var(--accent);
+  background: rgba(100, 255, 218, 0.08);
+  outline: none;
+}
+
+.cv-social svg {
+  width: 20px;
+  height: 20px;
+  display: block;
+}
+.cv-content {
+  display: grid;
+  gap: 3rem;
+  padding: 8rem 0;
+  overflow-y: auto;          /* keep scrollable */
+  -ms-overflow-style: none;  /* IE and Edge (legacy) */
+  scrollbar-width: none;     /* Firefox */
+  padding-right: 0;
+}
+
+.cv-content::-webkit-scrollbar { /* Chrome, Safari, new Edge */
+  width: 0;
+  height: 0;
+}
+.cv-section {
+  scroll-margin-top: 24px;
+}
+
+.cv-section-title {
+  font-size: 14px;
+  letter-spacing: 0.12em;
+  color: var(--accent);
+  margin: 0 0 1rem;
+  text-transform: uppercase;
+}
+
+.cv-section p {
+  color: var(--muted);
+  line-height: 1.8;
+  margin: 0.25rem 0 0.5rem;
+}
+
+.cv-item {
+  border: 1px solid var(--card-border);
+  /* background: var(--card); */
+  padding: 1rem 1.25rem;
+  border-radius: 10px;
+  margin: 1rem 0 1.25rem;
+}
+
+.cv-item-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.2s ease, transform 0.06s ease;
+}
+.cv-item-link:hover,
+.cv-item-link:focus-visible {
+  border-color: var(--accent);
+  outline: none;
+}
+.cv-item-link:active {
+  transform: translateY(1px);
+}
+
+.cv-item-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+
+.cv-item-title-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+}
+
+.cv-item-icon {
+  width: 22px;
+  height: 22px;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  object-fit: cover;
+  color: var(--accent);
+  background: var(--card-border);
+}
+
+.cv-item-title {
+  margin: 0.25rem 0;
+  font-weight: 600;
+}
+
+.cv-item-meta {
+  color: var(--muted);
+  font-size: 14px;
+  white-space: nowrap;
+}
+
+.cv-item-desc {
+  color: var(--muted);
+  margin: 0.25rem 0 0.5rem;
+}
+
+.cv-subgroups {
+  margin-top: 1.25rem;
+  display: grid;
+  gap: 1rem;
+}
+.cv-subtitle {
+  font-size: 13px;
+  letter-spacing: 0.08em;
+  color: white;
+  text-transform: uppercase;
+  margin: 0 0 0.25rem;
+}
+.cv-subgroup-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.cv-subgroup-meta {
+  display: flex;
+  gap: 12px;
+  color: var(--muted);
+}
+.cv-subitems {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 0.35rem;
+}
+.cv-subitems a {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.cv-subitems a:hover,
+.cv-subitems a:focus {
+  color: var(--accent);
+  border-color: var(--accent);
+  outline: none;
+}
+
+.cv-tags {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 0;
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.cv-tags li {
+  background: rgba(100, 255, 218, 0.08);
+  color: var(--accent);
+  border: 1px solid rgba(100, 255, 218, 0.3);
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 12px;
+}
+
+.cv-grid {
+  display: grid;
+  gap: 1rem;
+  padding: 0 0 1rem;
+}
+
+@media (min-width: 700px) {
+  .cv-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1100px) {
+  .cv-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.cv-item-jump-page {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+  padding: 2rem 0 3rem;
+  display: inline-block;
+}
+
+.cv-card {
+  border: 1px solid var(--card-border);
+  background: var(--card);
+  border-radius: 12px;
+  padding: 1rem 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  min-height: 160px;
+}
+
+.cv-card-title {
+  margin: 0;
+  font-weight: 600;
+  line-height: 1.6;
+  flex: 1 1 auto;
+}
+
+.cv-card-desc {
+  color: var(--muted);
+  margin: 0;
+}
+
+.cv-card-links a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.cv-card-links a:hover,
+.cv-card-links a:focus {
+  text-decoration: underline;
+  outline: none;
+}
+
+.cv-link {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.cv-link:hover,
+.cv-link:focus {
+  text-decoration: underline;
+  outline: none;
+}
+
+.cv-footer {
+  margin-top: 2rem;
+  color: var(--muted);
+  font-size: 14px;
+}

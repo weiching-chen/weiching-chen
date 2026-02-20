@@ -1,0 +1,67 @@
+[
+  {
+    "group": "Nexuni - Co-Founder / Founding Member of Technical Staff",
+    "location": "Taiwan",
+    "timeline": "June 2019 – Present",
+    "description": "Co-founded and scaled a 40+ person startup, leading and executing key projects in full-stack infrastructure, autonomous robotics, and Human-Robot Interaction (HRI) systems.",
+    "roles": [
+      {
+        "title": "DoDay - Automation Dessert Store",
+        "period": "2020 — Present",
+        "description": "Engineered a hybrid full-stack architecture featuring a Qt5 payment interface and AWS cloud backend for automation store (DoDay) operations to ensure 100% service continuity over 6 years, eliminating revenue loss and scaling the solution to 50+ commercial parking locations.",
+        "tags": ["Qt5", "AWS", "APIs"],
+        "link": "/P1Page"
+      },
+      {
+        "title": "Unitree Go2 - Autonomous Patrolling Robot",
+        "period": "2025 — Present",
+        "description": "Deployed a ROS 2-based interface and WebRTC/RTSP dashboard for Unitree Go2 to enable low-latency monitoring and real-time point-and-click path planning, achieving successful commercialization as an autonomous patrolling system in major Singapore shopping malls.",
+        "tags": ["ROS 2", "WebRTC", "RTSP", "APIs"],
+        "link": "/P1Page"
+      },
+      {
+        "title": "Teleoperation System for Unitree G1 Humanoid Robots",
+        "period": "2025",
+        "description": "Developed a teleoperation system integrating Unitree G1 humanoid robots with Meta Quest to facilitate immersive hand-tracking control, leveraging custom gesture recognition for high-precision remote manipulation.",
+        "tags": ["ROS 2", "MoveIt", "Meta Quest", "Teleoperation"],
+        "link": "/P1Page"
+      },
+      {
+        "title": "RL Training Pipeline for Quadruped Robots",
+        "period": "2025 — Present",
+        "description": "Developed an RL training pipeline and policy in NVIDIA Isaac Sim for quadruped robots to master complex vertical stair climbing, significantly improving robustness and navigation performance on high-difficulty terrains.",
+        "tags": ["ROS 2", "NVIDIA Isaac Sim", "RL", "Quadruped Robots"],
+        "link": "/P1Page"
+      }
+    ]
+  },
+  {
+    "group": "Cornell University - Graduate Research Assistant",
+    "location": "New York, NY",
+    "timeline": "Sep 2024 – Present",
+    "description": "",
+    "roles": [
+      {
+        "title": "PhantomX Arm - ROS 2 Control Package",
+        "period": "2025 - Present",
+        "description": "Created a standalone ROS 2 control package from scratch for the PhantomX arm to provide the only available ROS 2 support for this platform, achieving real-time teleoperation via Unity and Meta Quest.",
+        "tags": ["ROS 2", "Unity", "Meta Quest", "Teleoperation"],
+        "link": "/P1Page"
+      },
+      {
+        "title": "Timber Tensegrity Chair - Robotic Fabrication",
+        "period": "2024",
+        "description": "Designed collision-aware toolpaths for large-scale timber processing on an ABB IRB 6700 to automate industrial wood cutting, translating complex geometric data into executable RAPID code via RobotStudio.",
+        "tags": ["ABB IRB 6700 (Large-Scale Robotic Arm)", "ABB RobotStudio", "Timber Processing", "Robotic Fabrication"],
+        "link": "/P1Page"
+      },
+      {
+        "title": "Human-Robot Collaborative Assembly - Robotic Fabrication",
+        "period": "2025",
+        "description": "Implemented a low-latency robotic control interface using ABB EGM (Externally Guided Motion) to facilitate high-speed Python API control, integrating HoloLens 2 hand-tracking for real-time human-robot collaborative assembly on the ABB IRB 120.",
+        "tags": ["ABB IRB 120 (Small-Scale Robotic Arm)", "ABB EGM", "HoloLens 2", "Human-Robot Collaborative Assembly"],
+        "link": "/P1Page"
+      }
+    ]
+  }
+]

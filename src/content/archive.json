@@ -1,0 +1,371 @@
+[
+  {
+    "year": 2024,
+    "project": "Resilient Tensegrity Robot: Inspired by Spider Webs and Melons",
+    "projectUrl": "/P1Page",
+    "madeAt": "Cornell 24 Fall",
+    "builtWith": ["Robotics", "Tensegrity", "CAD"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P1Page"
+  },
+  {
+    "year": 2024,
+    "project": "Timber Tensegrity Chair",
+    "projectUrl": "/P2Page",
+    "madeAt": "Cornell 24 Fall",
+    "builtWith": ["Robotics", "Fabrication", "Timber"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P2Page"
+  },
+  {
+    "year": 2025,
+    "project": "AIDtensegrity - Tensioned for Relief",
+    "projectUrl": "/P25Page",
+    "madeAt": "Cornell 25 Spring",
+    "builtWith": ["Structure", "CAD", "Fabrication"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P25Page"
+  },
+  {
+    "year": 2025,
+    "project": "The Stratum Morphological Model",
+    "projectUrl": "/P26Page",
+    "madeAt": "Cornell 25 Spring",
+    "builtWith": ["Research", "Design"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P26Page"
+  },
+  {
+    "year": 2025,
+    "project": "VR Teleoperation for PhantomX Arm (ROS 2 & MoveIt 2)",
+    "projectUrl": "/P27Page",
+    "madeAt": "Cornell XRC Lab",
+    "builtWith": ["ROS 2", "MoveIt 2", "VR", "Teleoperation"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P27Page"
+  },
+  {
+    "year": 2025,
+    "project": "Go2 Legged Patrol Robot",
+    "projectUrl": "/P28Page",
+    "madeAt": "nexuni - AI Security",
+    "builtWith": ["Robotics", "ROS 2", "WebRTC", "RTSP"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P28Page"
+  },
+  {
+    "year": 2025,
+    "project": "Math Voyage: The Cargo Challenge",
+    "projectUrl": "/P29Page",
+    "madeAt": "Cornell 25 Fall",
+    "builtWith": ["Simulation", "Optimization"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P29Page"
+  },
+  {
+    "year": 2025,
+    "project": "Optimizing the Robotic Sled Dog’s Locomotion Using Reinforcement Learning",
+    "projectUrl": "/P30Page",
+    "madeAt": "Cornell 25 Spring",
+    "builtWith": ["Reinforcement Learning", "Simulation", "Robotics"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P30Page"
+  },
+  {
+    "year": 2025,
+    "project": "Prusa MK4 3D Printer GCode Generator",
+    "projectUrl": "/P41Page",
+    "madeAt": "Cornell 25 Spring",
+    "builtWith": ["3D Printing", "G-code", "Tooling"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P41Page"
+  },
+  {
+    "year": 2021,
+    "project": "PCube",
+    "projectUrl": "/P3Page",
+    "madeAt": "nexuni - DoDay",
+    "builtWith": ["Product", "CAD", "Prototyping"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P3Page"
+  },
+  {
+    "year": 2025,
+    "project": "ThinkBit",
+    "projectUrl": "/P15Page",
+    "madeAt": "Cornell AI Hackathon",
+    "builtWith": ["AI", "Prototyping", "Web"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P15Page"
+  },
+  {
+    "year": 2024,
+    "project": "MIXI",
+    "projectUrl": "/P8Page",
+    "madeAt": "Cornell 24 Fall",
+    "builtWith": ["Audio", "Interaction", "Web"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P8Page"
+  },
+  {
+    "year": 2020,
+    "project": "CrowdEye",
+    "projectUrl": "/P5Page",
+    "madeAt": "LINE FRESH Hackathon (2020) - Sliver Award",
+    "builtWith": ["Computer Vision", "ML", "Web"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P5Page"
+  },
+  {
+    "year": 2024,
+    "project": "Curling Game",
+    "projectUrl": "/P9Page",
+    "madeAt": "Cornell 24 Fall",
+    "builtWith": ["Game", "Web"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P9Page"
+  },
+  {
+    "year": 2025,
+    "project": "Pokemon Battle Haptics",
+    "projectUrl": "/P24Page",
+    "madeAt": "Cornell 25 Spring",
+    "builtWith": ["Haptics", "Embedded"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P24Page"
+  },
+  {
+    "year": 2025,
+    "project": "Time Blossom",
+    "projectUrl": "/P16Page",
+    "madeAt": "Cornell 25 Spring",
+    "builtWith": ["Woodworking", "Interaction"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P16Page"
+  },
+  {
+    "year": 2024,
+    "project": "WaterLover",
+    "projectUrl": "/P6Page",
+    "madeAt": "Independent Project",
+    "builtWith": ["Product", "Web"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P6Page"
+  },
+  {
+    "year": 2025,
+    "project": "Walkie",
+    "projectUrl": "/P31Page",
+    "madeAt": "Cornell 25 Fall",
+    "builtWith": ["App", "Web"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P31Page"
+  },
+  {
+    "year": 2025,
+    "project": "MIXI 2.0",
+    "projectUrl": "/P32Page",
+    "madeAt": "Cornell 25 Fall",
+    "builtWith": ["Audio", "Interaction", "Web"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P32Page"
+  },
+  {
+    "year": 2025,
+    "project": "Flourisa",
+    "projectUrl": "/P33Page",
+    "madeAt": "Cornell 25 Spring",
+    "builtWith": ["Product", "Web"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P33Page"
+  },
+  {
+    "year": 2025,
+    "project": "The Clock of Pi",
+    "projectUrl": "/P35Page",
+    "madeAt": "Cornell 25 Fall",
+    "builtWith": ["Kinetic", "Mechanism", "Embedded"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P35Page"
+  },
+  {
+    "year": 2025,
+    "project": "Chatterboxes",
+    "projectUrl": "/P36Page",
+    "madeAt": "Cornell 25 Fall",
+    "builtWith": ["HCI", "Web"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P36Page"
+  },
+  {
+    "year": 2025,
+    "project": "Ph-UI!!!",
+    "projectUrl": "/P37Page",
+    "madeAt": "Cornell 25 Fall",
+    "builtWith": ["UI", "HCI", "Web"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P37Page"
+  },
+  {
+    "year": 2025,
+    "project": "Observant Systems",
+    "projectUrl": "/P38Page",
+    "madeAt": "Cornell 25 Fall",
+    "builtWith": ["IoT", "Sensing", "Web"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P38Page"
+  },
+  {
+    "year": 2025,
+    "project": "Little Interactions Everywhere",
+    "projectUrl": "/P39Page",
+    "madeAt": "Cornell 25 Fall",
+    "builtWith": ["Interaction", "HCI", "Web"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P39Page"
+  },
+  {
+    "year": 2025,
+    "project": "Lovely Leverly Magical Manual Machine",
+    "projectUrl": "/P40Page",
+    "madeAt": "Cornell 25 Spring",
+    "builtWith": ["Mechanism", "Fabrication"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P40Page"
+  },
+  {
+    "year": 2023,
+    "project": "Revitalizing Urban Life: A Mixed-Use Design Integrating Residential Zones with Piers Park",
+    "projectUrl": "/P10Page",
+    "madeAt": "Harvard GSDD 2023",
+    "builtWith": ["Urban Design", "Architecture"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P10Page"
+  },
+  {
+    "year": 2020,
+    "project": "DoDay Store Design",
+    "projectUrl": "/P14Page",
+    "madeAt": "nexuni - DoDay",
+    "builtWith": ["Interior", "Branding"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P14Page"
+  },
+  {
+    "year": 2024,
+    "project": "CarDay",
+    "projectUrl": "/P7Page",
+    "madeAt": "nexuni - CarDay",
+    "builtWith": ["Product", "Planning"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P7Page"
+  },
+  {
+    "year": 2024,
+    "project": "SIPAI Website",
+    "projectUrl": "/P4Page",
+    "madeAt": "MX Design",
+    "builtWith": ["Web", "React"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P4Page"
+  },
+  {
+    "year": 2020,
+    "project": "DoDay Website",
+    "projectUrl": "/P17Page",
+    "madeAt": "nexuni - DoDay",
+    "builtWith": ["Web", "React"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P17Page"
+  },
+  {
+    "year": 2020,
+    "project": "CarDay Website",
+    "projectUrl": "/P18Page",
+    "madeAt": "nexuni - CarDay",
+    "builtWith": ["Web", "React"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P18Page"
+  },
+  {
+    "year": 2020,
+    "project": "nexuni Website",
+    "projectUrl": "/P19Page",
+    "madeAt": "nexuni",
+    "builtWith": ["Web", "React"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P19Page"
+  },
+  {
+    "year": 2020,
+    "project": "Doday Online Order Website",
+    "projectUrl": "/P20Page",
+    "madeAt": "nexuni - DoDay",
+    "builtWith": ["Web", "E-commerce", "React"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P20Page"
+  },
+  {
+    "year": 2019,
+    "project": "Gong-pig",
+    "projectUrl": "/P13Page",
+    "madeAt": "NTU 2019 Fall",
+    "builtWith": ["Game", "Web"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P13Page"
+  },
+  {
+    "year": 2025,
+    "project": "Lumière",
+    "projectUrl": "/P34Page",
+    "madeAt": "Cornell 25 Fall",
+    "builtWith": ["Web", "Interaction"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P34Page"
+  },
+  {
+    "year": 2019,
+    "project": "Smart Necklace",
+    "projectUrl": "/P11Page",
+    "madeAt": "Google Science Fair 2019 Finalist (Top 20)",
+    "builtWith": ["Wearable", "ML", "Embedded"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P11Page"
+  },
+  {
+    "year": 2018,
+    "project": "A Wearable Mild Traumatic Injury Warning Device of Daily Activities",
+    "projectUrl": "/P12Page",
+    "madeAt": "Taiwan International Science Fair (2018) - Sliver Award, Canada Worldwide Science Fair (2018) - Gold Award",
+    "builtWith": ["Wearable", "ML", "Embedded"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P12Page"
+  },
+  {
+    "year": 2024,
+    "project": "Assembler",
+    "projectUrl": "/P21Page",
+    "madeAt": "Cornell 24 Fall",
+    "builtWith": ["Rhino", "Grasshopper", "Plugin"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P21Page"
+  },
+  {
+    "year": 2020,
+    "project": "Famcy",
+    "projectUrl": "/P22Page",
+    "madeAt": "nexuni",
+    "builtWith": ["Python", "Library"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P22Page"
+  },
+  {
+    "year": 2020,
+    "project": "Nexuni React Web Tool",
+    "projectUrl": "/P23Page",
+    "madeAt": "nexuni",
+    "builtWith": ["React", "Library", "Tooling"],
+    "linkLabel": "Case Study",
+    "linkUrl": "/weiching-chen/P23Page"
+  }
+]

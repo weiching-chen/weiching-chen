@@ -11,6 +11,7 @@ import {
 import Header from './component/Header'
 
 import MainPage from './page/MainPage'
+import CVMainPage from './page/CVMainPage'
 import P1Page from './page/P1Page'
 import P2Page from './page/P2Page'
 import P3Page from './page/P3Page'
@@ -52,6 +53,7 @@ import P38Page from './page/P38Page'
 import P39Page from './page/P39Page'
 import P40Page from './page/P40Page'
 import P41Page from './page/P41Page'
+import ArchivePage from './page/ArchivePage'
 
 import CVPage from './page/CVPage'
 
@@ -61,10 +63,10 @@ import CVPage from './page/CVPage'
 function App() {
   return (
     <div className="App">
-      <Header />
+      {/* <Header /> */}
       <BrowserRouter basename="/weiching-chen">
         <Routes>
-          <Route path="/" element={<MainPage />} />
+          <Route path="/" element={<CVMainPage />} />
           <Route path="/P1Page" element={<P1Page />} />
           <Route path="/P2Page" element={<P2Page />} />
           <Route path="/P3Page" element={<P3Page />} />
@@ -106,6 +108,7 @@ function App() {
           <Route path="/P39Page" element={<P39Page />} />
           <Route path="/P40Page" element={<P40Page />} />
           <Route path="/P41Page" element={<P41Page />} />
+          <Route path="/archive" element={<ArchivePage />} />
           <Route path="/CVPage" element={<CVPage />} />
         </Routes>
       </BrowserRouter>
