@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/weiching-chen/static/css/main.f482d141.css",
-    "main.js": "/weiching-chen/static/js/main.d349cfc5.js",
+    "main.js": "/weiching-chen/static/js/main.b0ae88b7.js",
     "static/js/488.c97de999.chunk.js": "/weiching-chen/static/js/488.c97de999.chunk.js",
     "index.html": "/weiching-chen/index.html",
     "main.f482d141.css.map": "/weiching-chen/static/css/main.f482d141.css.map",
-    "main.d349cfc5.js.map": "/weiching-chen/static/js/main.d349cfc5.js.map",
+    "main.b0ae88b7.js.map": "/weiching-chen/static/js/main.b0ae88b7.js.map",
     "488.c97de999.chunk.js.map": "/weiching-chen/static/js/488.c97de999.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f482d141.css",
-    "static/js/main.d349cfc5.js"
+    "static/js/main.b0ae88b7.js"
   ]
 }
